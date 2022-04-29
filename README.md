@@ -1,6 +1,10 @@
 # WeLoveMovies Frontend Application
 
-This is the Front End Application for the WeLoveMovies project. Follow the instructions below.
+## Description
+
+User interface for the WeLoveMovies project. Follow the instructions below.
+
+## <a href="https://welovemovies-catalog-frontend.herokuapp.com/" target="_blank">View Project</a>
 
 ## Installation
 
